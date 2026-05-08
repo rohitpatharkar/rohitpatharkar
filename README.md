@@ -1,5 +1,15 @@
 # 💫 About Me:
-BCA Student | Aspiring Software Developer | Seeking Opportunities to Gain Real-World Development Experience.
+Problem-Solving Engineer focused on backend systems, AI integration, and scalable automation.
+
+Passionate about building intelligent applications, API-driven architectures, and real-world tech solutions that create impact.
+
+⚡ Tech Interests:
+
+- Backend Engineering
+- AI Integration
+- Automation Systems
+- Cloud & APIs
+- Scalable Architectures
 
 
 ## 🌐 Socials:
@@ -13,6 +23,4 @@ BCA Student | Aspiring Software Developer | Seeking Opportunities to Gain Real-W
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitpatharkar &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohitpatharkar &icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
